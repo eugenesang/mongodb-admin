@@ -1,0 +1,9 @@
+{
+    "appId": "application-0-tjewk",
+    "appUrl": "https://realm.mongodb.com/groups/6531272697b2741478f219cc/apps/6550f7bbfe3217386e46ae03",
+    "baseUrl": "https://realm.mongodb.com",
+    "clientApiBaseUrl": "https://asia-south1.gcp.realm.mongodb.com",
+    "dataApiBaseUrl": "https://asia-south1.gcp.data.mongodb-api.com",
+    "dataExplorerLink": "https://cloud.mongodb.com/links/6531272697b2741478f219cc/explorer/kvresident/database/collection/find",
+    "dataSourceName": "mongodb-atlas"
+}
